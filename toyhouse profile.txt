@@ -1,0 +1,60 @@
+<div style="margin: 10% 20%; border: 2px dashed #3e94e1; padding: 3% 8%;">
+
+	<p style="text-align: center;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/60716844_359Z2QkeSJ6rLU5.png" alt="name" class="fr-fic fr-dii" width="265" height="44.1562"></p>
+
+	<p style="text-align: center;"><strong>name</strong></p>
+	<hr style="border: 1px solid #baccff; margin: 5% 20%;">
+
+	<h2 style="text-align: center;">Basic information</h2>
+
+	<h4>Name</h4>
+	<hr style="border: 1px solid #fff; margin: 2%;">
+
+	<ul style="list-style-type: disc;">
+		<li>EN: -</li>
+		<li>KO: -</li>
+		<li>other names: -</li>
+	</ul>
+	<hr style="border: 1px solid #fff; margin: 2%;">
+
+	<h4>Informations</h4>
+
+	<ul style="list-style-type: disc;">
+		<li>Kind: -</li>
+		<li>Age: -</li>
+		<li>Gender: -
+
+			<ul>
+				<li>Pronouns: -</li>
+			</ul>
+		</li>
+		<li>Residence: -</li>
+		<li>Belong: -</li>
+		<li>TASS Class: -</li>
+		<li>Like: -</li>
+		<li>Hate: -</li>
+	</ul>
+	<hr style="border: 1px solid #fff; margin: 2%;">
+
+	<h4>Description</h4>
+	<hr style="border: 1px solid #fff; margin: 2%;">
+
+	<p>&quot;-&quot;</p>
+
+	<p>-</p>
+	<hr style="border: 1px solid #baccff; margin: 5% 20%;">
+
+	<h2 style="text-align: center;">Relationships</h2>
+
+	<ul style="list-style-type: disc;">
+		<li>-</li>
+	</ul>
+	<hr style="border: 1px solid #baccff; margin: 5% 20%;">
+
+	<h2 style="text-align: center;">Trivia</h2>
+	<hr style="border: 1px solid #fff; margin: 2%;">
+
+	<ul>
+		<li dir="ltr">-</li>
+	</ul>
+</div>
