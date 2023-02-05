@@ -11,6 +11,10 @@
     color: #2F333D;
 }
 
+body {
+width: 70%;
+}
+
 hr {
     border: 0;
     margin: 3em;
