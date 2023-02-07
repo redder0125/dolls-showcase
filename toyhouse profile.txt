@@ -22,12 +22,7 @@
 	<ul style="list-style-type: disc;">
 		<li>Kind: -</li>
 		<li>Age: -</li>
-		<li>Gender: -
-
-			<ul>
-				<li>Pronouns: -</li>
-			</ul>
-		</li>
+		<li>Gender: -</li>
 		<li>Residence: -</li>
 		<li>Belong: -</li>
 		<li>TASS Class: -</li>
