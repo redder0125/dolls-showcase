@@ -12,7 +12,8 @@
 }
 
 body {
-width: 810px;
+    width: 700px;
+    margin: auto;
 }
 
 hr {
@@ -21,8 +22,9 @@ hr {
 }
 
 div {
-    text-align: center;
-    margin: 0 auto;
+    text-align: left;
+    margin: 0 5;
+    display: inline;
 }
 
 a {
