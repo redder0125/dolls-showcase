@@ -34,3 +34,14 @@ a {
 #footer {
     color: #3e94e1;
 }
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    background: #efefef;
+}
+::-webkit-scrollbar-thumb {
+    background: #3e94e1;
+    border-radius: 10px;
+}
